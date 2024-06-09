@@ -16,5 +16,5 @@ var car = {
     engineNum : 1234,
     model : "BMW"
 };
-console.log(car.model);
+console.log(car.model); //accessing the object "model" property and seeing output
 
