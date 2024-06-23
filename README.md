@@ -4,4 +4,4 @@ string and object datatype.
 "lecture_3.js" is the "Lecture # 3 Functions in JS and base of any programming language" in coure in 
 which we learn to create functions and the working of functions and return statements.
 <br>
-"lecture_4.js" is the "Lecture # 4 Constructor Functions in JS. This concept is very important for the Blockchain data structure." in course in which we learn to create <b>methods<b> (functions) in objects and objects in functions.
+"lecture_4.js" is the "Lecture # 4 Constructor Functions in JS. This concept is very important for the Blockchain data structure." in course in which we learn to create <b>methods</b> (functions) in <b>objects</b> and <b>objects</b> in <b>functions</b>.
