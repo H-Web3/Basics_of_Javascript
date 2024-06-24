@@ -30,7 +30,12 @@ function studentRecord (fname, lname, age)
     var student = {
         fname : fname,
         lname : lname,
-        age : age
+        age : age,
+
+        getfullname : function()
+        {
+            return this.fname + " " + this.lname;
+        }
     }
     return student;
 }
